@@ -8,3 +8,10 @@ This repository contains files associated with the workshop '', which is part of
 
 - Zachary's *Karate club* network (From [Konect](http://konect.cc/networks/ucidata-zachary/)
 - Character co-occurrence in Victor Hugo's *Les Miserables* (From [MADStudioNU](https://github.com/MADStudioNU/lesmiserables-character-network/blob/master/parsed_data/jean-complete-edge.csv))
+- Newman's scientific collaboration network (From Tore Opsahl's [repo](https://toreopsahl.com/datasets/#newman2001)) 
+
+## Results
+
+- Two-cluster solution to the *Karate club* network
+- Four-cluster partition of the *Les Miserables* network
+- Five-cluster partition of the *Les Miserables* network
