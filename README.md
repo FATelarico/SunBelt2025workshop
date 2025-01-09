@@ -10,7 +10,7 @@ This repository contains files associated with the workshop '', which is part of
 - Character co-occurrence in Victor Hugo's *Les Miserables* (From [MADStudioNU](https://github.com/MADStudioNU/lesmiserables-character-network/blob/master/parsed_data/jean-complete-edge.csv))
 - Newman's scientific collaboration network (From Tore Opsahl's [repo](https://toreopsahl.com/datasets/#newman2001)) 
 
-## Results
+### Results
 
 - Two-cluster solution to the *Karate club* network
 - Four-cluster partition of the *Les Miserables* network
