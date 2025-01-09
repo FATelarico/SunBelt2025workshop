@@ -8,7 +8,8 @@ This repository contains files associated with the workshop '', which is part of
 
 - Zachary's *Karate club* network (From [Konect](http://konect.cc/networks/ucidata-zachary/))
 - Character co-occurrence in Victor Hugo's *Les Miserables* (From [MADStudioNU](https://github.com/MADStudioNU/lesmiserables-character-network/blob/master/parsed_data/jean-complete-edge.csv))
-- Newman's scientific collaboration network (From Tore Opsahl's [repo](https://toreopsahl.com/datasets/#newman2001)) 
+- Newman's scientific collaboration network (From Tore Opsahl's [repo](https://toreopsahl.com/datasets/#newman2001))
+- Carbon exchanges in the cypress wetlands of South Florida (From Vladimir Batagelj's [wiki](http://vlado.fmf.uni-lj.si/pub/networks/data/bio/foodweb/foodweb.htm))
 
 ### Results
 
